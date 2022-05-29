@@ -50,9 +50,13 @@ You should now be able to see two different subscription keys that you can use.
     [libraries.txt](https://github.com/Shriya0731/Microsoft-Engage-Face-Recognition-Project/files/8793034/libraries.txt)
 6. Download zip of the repository extract all files and paste in the New project folder.
 7. Paste your API key and Endpoint in the NewTry.py file and Functions.py file.
-8. Open terminal , type streamlit run GUI.py and enter to run the webapp.
+8. Download the Passenger_Info.sql database and edit the password and path in Boarding_Info_Update.py file.
+9. Also create a folder named 'Images'.
+10. Edit file paths in GUI.py and NewTry.py files.
+11. Open terminal , type streamlit run GUI.py and enter to run the webapp.
 ![homescreen](https://user-images.githubusercontent.com/91329086/170862148-ec5fa40b-6cc0-4883-8cf3-536f9eb04096.PNG)
 
 Note : Internet connection is required to run the project.
 
-Demo link : 
+## Demo link : 
+https://drive.google.com/file/d/19Xqfev1F8c2LjTB2Lh8oYT_0SaW9wvRW/view?usp=drivesdk
