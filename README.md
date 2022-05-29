@@ -51,6 +51,7 @@ You should now be able to see two different subscription keys that you can use.
 6. Download zip of the repository extract all files and paste in the New project folder.
 7. Paste your API key and Endpoint in the NewTry.py file and Functions.py file.
 8. Open terminal , type streamlit run GUI.py and enter to run the webapp.
+![homescreen](https://user-images.githubusercontent.com/91329086/170862148-ec5fa40b-6cc0-4883-8cf3-536f9eb04096.PNG)
 
 Note : Internet connection is required to run the project.
 
